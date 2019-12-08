@@ -1,0 +1,498 @@
+﻿Name,Ticker,Date,Actual,Estimate
+Corteva Inc,CTVA US,2019/5/31,0.31,0.44
+Advance Auto Parts Inc,AAP US,2019/5/22,2.46,2.371
+Equifax Inc,EFX US,2019/5/10,1.2,1.201
+Marriott International Inc/MD,MAR US,2019/5/10,1.41,1.337
+Linde PLC,LIN US,2019/5/10,1.69,1.57
+Mettler-Toledo International I,MTD US,2019/5/9,4.1,4.051
+Booking Holdings Inc,BKNG US,2019/5/9,11.17,11.324
+Wynn Resorts Ltd,WYNN US,2019/5/9,1.61,1.583
+Ameren Corp,AEE US,2019/5/9,0.78,0.681
+Norwegian Cruise Line Holdings,NCLH US,2019/5/9,0.83,0.705
+Duke Energy Corp,DUK US,2019/5/9,1.28,1.239
+CenterPoint Energy Inc,CNP US,2019/5/9,0.46,0.516
+Perrigo Co PLC,PRGO US,2019/5/8,1.07,0.945
+Evergy Inc,EVRG US,2019/5/8,0.44,0.406
+Cimarex Energy Co,XEC US,2019/5/8,1.2,1.352
+CenturyLink Inc,CTL US,2019/5/8,0.34,0.267
+Albemarle Corp,ALB US,2019/5/8,1.23,1.273
+CBRE Group Inc,CBRE US,2019/5/8,0.79,0.613
+Marathon Petroleum Corp,MPC US,2019/5/8,-0.09,0.05
+Western Union Co/The,WU US,2019/5/7,0.39,0.428
+FleetCor Technologies Inc,FLT US,2019/5/7,2.67,2.641
+TripAdvisor Inc,TRIP US,2019/5/7,0.36,0.315
+DaVita Inc,DVA US,2019/5/7,0.91,0.931
+Diamondback Energy Inc,FANG US,2019/5/7,1.39,1.362
+Expeditors International of Wa,EXPD US,2019/5/7,0.8,0.832
+Mylan NV,MYL US,2019/5/7,0.82,0.791
+Allergan PLC,AGN US,2019/5/7,3.79,3.553
+Sempra Energy,SRE US,2019/5/7,1.92,1.68
+Henry Schein Inc,HSIC US,2019/5/7,0.8,0.759
+Regeneron Pharmaceuticals Inc,REGN US,2019/5/7,4.45,5.706
+AES Corp/VA,AES US,2019/5/7,0.28,0.299
+Gartner Inc,IT US,2019/5/7,0.58,0.527
+Mosaic Co/The,MOS US,2019/5/6,0.25,0.241
+Pioneer Natural Resources Co,PXD US,2019/5/6,1.83,1.599
+FMC Corp,FMC US,2019/5/6,1.72,1.623
+International Flavors & Fragra,IFF US,2019/5/6,1.57,1.502
+American International Group I,AIG US,2019/5/6,1.58,1.052
+Assurant Inc,AIZ US,2019/5/6,2.33,2.153
+Everest Re Group Ltd,RE US,2019/5/6,6.91,5.901
+Affiliated Managers Group Inc,AMG US,2019/5/6,3.26,3.261
+Occidental Petroleum Corp,OXY US,2019/5/5,0.84,0.733
+Berkshire Hathaway Inc,BRK/A US,2019/5/4,3387.56,3399.097
+Dominion Energy Inc,D US,2019/5/3,1.1,1.117
+Cboe Global Markets Inc,CBOE US,2019/5/3,1.11,0.991
+American Tower Corp,AMT US,2019/5/3,1.73,1.55
+Noble Energy Inc,NBL US,2019/5/3,-0.09,-0.064
+Newell Brands Inc,NWL US,2019/5/3,0.14,0.03
+DISH Network Corp,DISH US,2019/5/3,0.65,0.652
+DENTSPLY SIRONA Inc,XRAY US,2019/5/3,0.49,0.386
+Alliant Energy Corp,LNT US,2019/5/2,0.53,0.514
+EOG Resources Inc,EOG US,2019/5/2,1.19,1.024
+Consolidated Edison Inc,ED US,2019/5/2,1.39,1.364
+Fortinet Inc,FTNT US,2019/5/2,0.46,0.387
+Regency Centers Corp,REG US,2019/5/2,0.95,0.956
+Apartment Investment & Managem,AIV US,2019/5/2,0.61,0.601
+Expedia Group Inc,EXPE US,2019/5/2,-0.27,-0.369
+Motorola Solutions Inc,MSI US,2019/5/2,1.28,1.145
+Activision Blizzard Inc,ATVI US,2019/5/2,0.31,0.257
+Flowserve Corp,FLS US,2019/5/2,0.41,0.341
+Federal Realty Investment Trus,FRT US,2019/5/2,1.56,1.558
+Arista Networks Inc,ANET US,2019/5/2,2.31,2.07
+CBS Corp,CBS US,2019/5/2,1.37,1.367
+Monster Beverage Corp,MNST US,2019/5/2,0.49,0.424
+Cognizant Technology Solutions,CTSH US,2019/5/2,0.91,1.034
+Gilead Sciences Inc,GILD US,2019/5/2,1.76,1.607
+Kellogg Co,K US,2019/5/2,1.01,0.948
+PPL Corp,PPL US,2019/5/2,0.7,0.725
+Vulcan Materials Co,VMC US,2019/5/2,0.46,0.363
+Kimco Realty Corp,KIM US,2019/5/2,0.38,0.357
+Public Service Enterprise Grou,PEG US,2019/5/2,1.08,1.003
+Intercontinental Exchange Inc,ICE US,2019/5/2,0.92,0.897
+Huntington Ingalls Industries,HII US,2019/5/2,2.85,3.228
+Hanesbrands Inc,HBI US,2019/5/2,0.27,0.254
+S&P Global Inc,SPGI US,2019/5/2,2.11,2.134
+NRG Energy Inc,NRG US,2019/5/2,0.33,0.43
+MSCI Inc,MSCI US,2019/5/2,1.55,1.4
+Discovery Inc,DISCA US,2019/5/2,0.87,0.796
+Zoetis Inc,ZTS US,2019/5/2,0.88,0.788
+Church & Dwight Co Inc,CHD US,2019/5/2,0.7,0.661
+Macerich Co/The,MAC US,2019/5/2,0.8,0.798
+Under Armour Inc,UAA US,2019/5/2,0.05,-0.001
+Xylem Inc/NY,XYL US,2019/5/2,0.52,0.564
+Global Payments Inc,GPN US,2019/5/2,1.34,1.293
+Quanta Services Inc,PWR US,2019/5/2,0.96,0.823
+Aptiv PLC,APTV US,2019/5/2,1.05,1.007
+Exelon Corp,EXC US,2019/5/2,0.87,0.872
+Teleflex Inc,TFX US,2019/5/2,2.24,2.126
+HollyFrontier Corp,HFC US,2019/5/2,0.54,0.385
+Dow Inc,DOW US,2019/5/2,0.83,0.916
+Ball Corp,BLL US,2019/5/2,0.49,0.511
+DuPont de Nemours Inc,DD US,2019/5/2,2.52,1.38
+Cigna Corp,CI US,2019/5/2,3.9,3.744
+Apache Corp,APA US,2019/5/1,0.1,0.127
+ANSYS Inc,ANSS US,2019/5/1,1.29,1.091
+Marathon Oil Corp,MRO US,2019/5/1,0.31,0.07
+CF Industries Holdings Inc,CF US,2019/5/1,0.27,0.352
+Host Hotels & Resorts Inc,HST US,2019/5/1,0.48,0.444
+Allstate Corp/The,ALL US,2019/5/1,2.3,2.252
+Mid-America Apartment Communit,MAA US,2019/5/1,1.58,1.509
+Prudential Financial Inc,PRU US,2019/5/1,3,3.144
+Public Storage,PSA US,2019/5/1,2.53,2.521
+Williams Cos Inc/The,WMB US,2019/5/1,0.22,0.227
+Eversource Energy,ES US,2019/5/1,0.97,0.914
+Lincoln National Corp,LNC US,2019/5/1,2.14,2.034
+MetLife Inc,MET US,2019/5/1,1.48,1.272
+Healthpeak Properties Inc,PEAK US,2019/5/1,0.44,0.431
+Hartford Financial Services Gr,HIG US,2019/5/1,1.39,1.234
+American Water Works Co Inc,AWK US,2019/5/1,0.62,0.632
+Equinix Inc,EQIX US,2019/5/1,3.97,4.248
+Realty Income Corp,O US,2019/5/1,0.81,0.802
+Pinnacle West Capital Corp,PNW US,2019/5/1,0.16,0.168
+Royal Caribbean Cruises Ltd,RCL US,2019/5/1,1.31,1.107
+Humana Inc,HUM US,2019/5/1,4.48,4.29
+CDW Corp/DE,CDW US,2019/5/1,1.24,1.11
+Garmin Ltd,GRMN US,2019/5/1,0.73,0.706
+Yum! Brands Inc,YUM US,2019/5/1,0.82,0.813
+Molson Coors Brewing Co,TAP US,2019/5/1,0.52,0.576
+IQVIA Holdings Inc,IQV US,2019/5/1,1.53,1.506
+Sealed Air Corp,SEE US,2019/5/1,0.59,0.571
+CME Group Inc,CME US,2019/5/1,1.62,1.597
+AMETEK Inc,AME US,2019/5/1,1,0.969
+CVS Health Corp,CVS US,2019/5/1,1.62,1.511
+Southern Co/The,SO US,2019/5/1,0.7,0.719
+NiSource Inc,NI US,2019/5/1,0.82,0.77
+Entergy Corp,ETR US,2019/5/1,0.82,0.863
+IDEXX Laboratories Inc,IDXX US,2019/5/1,1.17,1.052
+Willis Towers Watson PLC,WLTW US,2019/5/1,2.98,3.024
+Hilton Worldwide Holdings Inc,HLT US,2019/5/1,0.8,0.761
+Boston Properties Inc,BXP US,2019/4/30,1.72,1.658
+Devon Energy Corp,DVN US,2019/4/30,0.36,0.276
+Equity Residential,EQR US,2019/4/30,0.82,0.812
+Advanced Micro Devices Inc,AMD US,2019/4/30,0.06,0.054
+UDR Inc,UDR US,2019/4/30,0.5,0.503
+ONEOK Inc,OKE US,2019/4/30,0.81,0.723
+Unum Group,UNM US,2019/4/30,1.31,1.313
+CH Robinson Worldwide Inc,CHRW US,2019/4/30,1.16,1.144
+Verisk Analytics Inc,VRSK US,2019/4/30,1.03,1.034
+Edison International,EIX US,2019/4/30,0.63,0.873
+Chubb Ltd,CB US,2019/4/30,2.54,2.561
+Extra Space Storage Inc,EXR US,2019/4/30,1.16,1.136
+Mondelez International Inc,MDLZ US,2019/4/30,0.65,0.612
+Concho Resources Inc,CXO US,2019/4/30,0.72,0.761
+Akamai Technologies Inc,AKAM US,2019/4/30,1.1,1.019
+Amgen Inc,AMGN US,2019/4/30,3.56,3.469
+Vertex Pharmaceuticals Inc,VRTX US,2019/4/30,1.14,1.005
+Fiserv Inc,FISV US,2019/4/30,0.84,0.822
+Ecolab Inc,ECL US,2019/4/30,1.03,1.02
+HCA Healthcare Inc,HCA US,2019/4/30,2.97,2.319
+General Motors Co,GM US,2019/4/30,1.41,1.1
+Mastercard Inc,MA US,2019/4/30,1.78,1.656
+IPG Photonics Corp,IPGP US,2019/4/30,1.02,1.099
+Arconic Inc,ARNC US,2019/4/30,0.43,0.387
+PACCAR Inc,PCAR US,2019/4/30,1.81,1.654
+McDonald's Corp,MCD US,2019/4/30,1.78,1.754
+Cummins Inc,CMI US,2019/4/30,4.2,3.555
+Corning Inc,GLW US,2019/4/30,0.4,0.395
+Charter Communications Inc,CHTR US,2019/4/30,0.98,1.371
+Phillips 66,PSX US,2019/4/30,0.4,0.34
+Incyte Corp,INCY US,2019/4/30,0.62,0.391
+Fidelity National Information,FIS US,2019/4/30,1.64,1.447
+ConocoPhillips,COP US,2019/4/30,1,0.907
+Simon Property Group Inc,SPG US,2019/4/30,3.04,3.054
+Martin Marietta Materials Inc,MLM US,2019/4/30,0.68,0.33
+Laboratory Corp of America Hol,LH US,2019/4/30,2.62,2.534
+AO Smith Corp,AOS US,2019/4/30,0.53,0.573
+Baker Hughes Co,BKR US,2019/4/30,0.15,0.133
+Merck & Co Inc,MRK US,2019/4/30,1.22,1.051
+Pfizer Inc,PFE US,2019/4/30,0.85,0.761
+Eaton Corp PLC,ETN US,2019/4/30,1.26,1.244
+Nielsen Holdings PLC,NLSN US,2019/4/30,0.35,0.319
+Welltower Inc,WELL US,2019/4/30,1.02,1.019
+General Electric Co,GE US,2019/4/30,0.14,0.089
+Eli Lilly & Co,LLY US,2019/4/30,1.33,1.301
+Ingersoll-Rand PLC,IR US,2019/4/30,0.89,0.797
+WellCare Health Plans Inc,WCG US,2019/4/30,3.69,3.062
+Leidos Holdings Inc,LDOS US,2019/4/30,1.13,1
+MGM Resorts International,MGM US,2019/4/29,0.14,0.213
+Alexandria Real Estate Equitie,ARE US,2019/4/29,1.71,1.682
+Leggett & Platt Inc,LEG US,2019/4/29,0.49,0.522
+Alphabet Inc,GOOGL US,2019/4/29,10.81,10.541
+SBA Communications Corp,SBAC US,2019/4/29,1.72,1.663
+Vornado Realty Trust,VNO US,2019/4/29,1.3,1.34
+Loews Corp,L US,2019/4/29,1.2,0.96
+Chevron Corp,CVX US,2019/4/26,1.39,1.303
+Exxon Mobil Corp,XOM US,2019/4/26,0.55,0.716
+American Airlines Group Inc,AAL US,2019/4/26,0.52,0.506
+Archer-Daniels-Midland Co,ADM US,2019/4/26,0.46,0.595
+Interpublic Group of Cos Inc/T,IPG US,2019/4/26,0.11,0.048
+Ventas Inc,VTR US,2019/4/26,0.99,0.956
+Colgate-Palmolive Co,CL US,2019/4/26,0.67,0.663
+Cabot Oil & Gas Corp,COG US,2019/4/26,0.73,0.651
+LyondellBasell Industries NV,LYB US,2019/4/26,2.22,2.17
+Zimmer Biomet Holdings Inc,ZBH US,2019/4/26,1.87,1.863
+Aon PLC,AON US,2019/4/26,3.31,3.302
+Weyerhaeuser Co,WY US,2019/4/26,0.11,0.092
+National Oilwell Varco Inc,NOV US,2019/4/25,-0.18,-0.08
+Eastman Chemical Co,EMN US,2019/4/25,1.77,1.867
+Discover Financial Services,DFS US,2019/4/25,2.15,2.017
+Aflac Inc,AFL US,2019/4/25,1.13,1.059
+Fortive Corp,FTV US,2019/4/25,0.69,0.691
+Universal Health Services Inc,UHS US,2019/4/25,2.45,2.605
+Arthur J Gallagher & Co,AJG US,2019/4/25,1.63,1.609
+Principal Financial Group Inc,PFG US,2019/4/25,1.43,1.308
+PerkinElmer Inc,PKI US,2019/4/25,0.69,0.662
+Ford Motor Co,F US,2019/4/25,0.44,0.256
+Mohawk Industries Inc,MHK US,2019/4/25,2.13,2.064
+Juniper Networks Inc,JNPR US,2019/4/25,0.26,0.212
+TechnipFMC PLC,FTI US,2019/4/25,0.06,0.318
+Republic Services Inc,RSG US,2019/4/25,0.73,0.719
+Intel Corp,INTC US,2019/4/25,0.89,0.87
+SVB Financial Group,SIVB US,2019/4/25,5.44,4.782
+Digital Realty Trust Inc,DLR US,2019/4/25,1.92,1.63
+IDEX Corp,IEX US,2019/4/25,1.44,1.369
+Capital One Financial Corp,COF US,2019/4/25,2.9,2.706
+Illumina Inc,ILMN US,2019/4/25,1.6,1.338
+VeriSign Inc,VRSN US,2019/4/25,1.31,1.25
+T-Mobile US Inc,TMUS US,2019/4/25,1.06,0.92
+Amazon.com Inc,AMZN US,2019/4/25,7.09,4.667
+Alaska Air Group Inc,ALK US,2019/4/25,0.17,0.151
+Cerner Corp,CERN US,2019/4/25,0.61,0.615
+Tractor Supply Co,TSCO US,2019/4/25,0.63,0.554
+Illinois Tool Works Inc,ITW US,2019/4/25,1.81,1.805
+Freeport-McMoRan Inc,FCX US,2019/4/25,0.05,0.073
+Huntington Bancshares Inc/OH,HBAN US,2019/4/25,0.32,0.316
+AbbVie Inc,ABBV US,2019/4/25,2.14,2.059
+Alliance Data Systems Corp,ADS US,2019/4/25,3.72,4.05
+Hess Corp,HES US,2019/4/25,0.09,-0.266
+Wabtec Corp,WAB US,2019/4/25,1.06,0.843
+Baxter International Inc,BAX US,2019/4/25,0.76,0.681
+CMS Energy Corp,CMS US,2019/4/25,0.75,0.772
+United Parcel Service Inc,UPS US,2019/4/25,1.39,1.415
+Masco Corp,MAS US,2019/4/25,0.44,0.473
+WEC Energy Group Inc,WEC US,2019/4/25,1.33,1.255
+Comcast Corp,CMCSA US,2019/4/25,0.76,0.681
+Waste Management Inc,WM US,2019/4/25,0.94,0.918
+Hershey Co/The,HSY US,2019/4/25,1.59,1.467
+Altria Group Inc,MO US,2019/4/25,0.9,0.921
+Marsh & McLennan Cos Inc,MMC US,2019/4/25,1.52,1.452
+International Paper Co,IP US,2019/4/25,1.11,0.906
+Bristol-Myers Squibb Co,BMY US,2019/4/25,1.1,1.089
+American Electric Power Co Inc,AEP US,2019/4/25,1.19,1.111
+Invesco Ltd,IVZ US,2019/4/25,0.56,0.527
+Raytheon Co,RTN US,2019/4/25,2.77,2.472
+Newmont Goldcorp Corp,NEM US,2019/4/25,0.33,0.273
+Roper Technologies Inc,ROP US,2019/4/25,3.3,2.779
+Southwest Airlines Co,LUV US,2019/4/25,0.7,0.608
+Alexion Pharmaceuticals Inc,ALXN US,2019/4/25,2.39,2.211
+Valero Energy Corp,VLO US,2019/4/25,0.34,0.232
+BorgWarner Inc,BWA US,2019/4/25,1,0.944
+3M Co,MMM US,2019/4/25,2.23,2.485
+Xerox Holdings Corp,XRX US,2019/4/25,0.91,0.8
+LKQ Corp,LKQ US,2019/4/25,0.56,0.561
+Iron Mountain Inc,IRM US,2019/4/25,0.48,0.512
+Xcel Energy Inc,XEL US,2019/4/25,0.61,0.615
+Allegion PLC,ALLE US,2019/4/25,0.88,0.866
+Packaging Corp of America,PKG US,2019/4/24,1.98,1.957
+O'Reilly Automotive Inc,ORLY US,2019/4/24,4.05,4.055
+AvalonBay Communities Inc,AVB US,2019/4/24,2.3,2.286
+PayPal Holdings Inc,PYPL US,2019/4/24,0.78,0.678
+Essex Property Trust Inc,ESS US,2019/4/24,3.23,3.196
+Duke Realty Corp,DRE US,2019/4/24,0.33,0.321
+Ameriprise Financial Inc,AMP US,2019/4/24,3.75,3.631
+Chipotle Mexican Grill Inc,CMG US,2019/4/24,3.4,3.013
+ServiceNow Inc,NOW US,2019/4/24,0.67,0.543
+Facebook Inc,FB US,2019/4/24,1.89,1.619
+Fortune Brands Home & Security,FBHS US,2019/4/24,0.63,0.583
+Cincinnati Financial Corp,CINF US,2019/4/24,1.05,0.877
+Citrix Systems Inc,CTXS US,2019/4/24,1.27,1.173
+Align Technology Inc,ALGN US,2019/4/24,0.89,0.825
+Amphenol Corp,APH US,2019/4/24,0.89,0.881
+Norfolk Southern Corp,NSC US,2019/4/24,2.51,2.179
+Rollins Inc,ROL US,2019/4/24,0.13,0.152
+FLIR Systems Inc,FLIR US,2019/4/24,0.53,0.483
+T Rowe Price Group Inc,TROW US,2019/4/24,1.87,1.683
+General Dynamics Corp,GD US,2019/4/24,2.56,2.415
+Caterpillar Inc,CAT US,2019/4/24,2.94,2.846
+Boeing Co/The,BA US,2019/4/24,3.16,3.251
+Nasdaq Inc,NDAQ US,2019/4/24,1.22,1.163
+Moody's Corp,MCO US,2019/4/24,2.07,1.934
+DTE Energy Co,DTE US,2019/4/24,2.05,1.959
+AT&T Inc,T US,2019/4/24,0.86,0.858
+Avery Dennison Corp,AVY US,2019/4/24,1.48,1.455
+Biogen Inc,BIIB US,2019/4/24,6.98,6.994
+Northrop Grumman Corp,NOC US,2019/4/24,5.06,4.587
+Boston Scientific Corp,BSX US,2019/4/24,0.35,0.356
+MarketAxess Holdings Inc,MKTX US,2019/4/24,1.39,1.375
+Anthem Inc,ANTM US,2019/4/24,6.03,5.84
+Thermo Fisher Scientific Inc,TMO US,2019/4/24,2.81,2.73
+Stanley Black & Decker Inc,SWK US,2019/4/24,1.42,1.113
+FirstEnergy Corp,FE US,2019/4/23,0.67,0.67
+eBay Inc,EBAY US,2019/4/23,0.67,0.628
+Edwards Lifesciences Corp,EW US,2019/4/23,1.32,1.224
+Robert Half International Inc,RHI US,2019/4/23,0.93,0.951
+Stryker Corp,SYK US,2019/4/23,1.88,1.839
+Texas Instruments Inc,TXN US,2019/4/23,1.26,1.128
+Northern Trust Corp,NTRS US,2019/4/23,1.53,1.469
+Nucor Corp,NUE US,2019/4/23,1.63,1.504
+Verizon Communications Inc,VZ US,2019/4/23,1.2,1.167
+Lockheed Martin Corp,LMT US,2019/4/23,5.99,4.343
+NextEra Energy Inc,NEE US,2019/4/23,2.2,2.047
+Coca-Cola Co/The,KO US,2019/4/23,0.48,0.463
+Twitter Inc,TWTR US,2019/4/23,0.37,0.147
+Sherwin-Williams Co/The,SHW US,2019/4/23,3.6,3.657
+State Street Corp,STT US,2019/4/23,1.24,1.195
+United Technologies Corp,UTX US,2019/4/23,1.91,1.711
+Waters Corp,WAT US,2019/4/23,1.6,1.724
+Harley-Davidson Inc,HOG US,2019/4/23,0.98,0.855
+Quest Diagnostics Inc,DGX US,2019/4/23,1.4,1.364
+Fifth Third Bancorp,FITB US,2019/4/23,0.63,0.587
+PulteGroup Inc,PHM US,2019/4/23,0.59,0.473
+Hasbro Inc,HAS US,2019/4/23,0.21,-0.112
+Centene Corp,CNC US,2019/4/23,1.39,1.34
+Celanese Corp,CE US,2019/4/22,2.62,2.395
+Whirlpool Corp,WHR US,2019/4/22,3.11,2.864
+Zions Bancorp NA,ZION US,2019/4/22,1.04,1.048
+Cadence Design Systems Inc,CDNS US,2019/4/22,0.54,0.491
+WW Grainger Inc,GWW US,2019/4/22,4.51,4.45
+Kimberly-Clark Corp,KMB US,2019/4/22,1.66,1.539
+NVR Inc,NVR US,2019/4/22,47.64,34.448
+Halliburton Co,HAL US,2019/4/22,0.23,0.223
+Intuitive Surgical Inc,ISRG US,2019/4/18,2.61,2.699
+People's United Financial Inc,PBCT US,2019/4/18,0.33,0.333
+Genuine Parts Co,GPC US,2019/4/18,1.28,1.304
+Union Pacific Corp,UNP US,2019/4/18,1.93,1.877
+American Express Co,AXP US,2019/4/18,2.01,1.986
+Schlumberger Ltd,SLB US,2019/4/18,0.3,0.301
+Philip Morris International In,PM US,2019/4/18,1.09,0.997
+Travelers Cos Inc/The,TRV US,2019/4/18,2.83,2.738
+PPG Industries Inc,PPG US,2019/4/18,1.38,1.21
+Dover Corp,DOV US,2019/4/18,1.24,1.104
+Snap-on Inc,SNA US,2019/4/18,3.01,2.901
+KeyCorp,KEY US,2019/4/18,0.4,0.414
+Synchrony Financial,SYF US,2019/4/18,1,0.891
+Honeywell International Inc,HON US,2019/4/18,1.92,1.833
+Citizens Financial Group Inc,CFG US,2019/4/18,0.93,0.892
+Danaher Corp,DHR US,2019/4/18,1.07,1.016
+SunTrust Banks Inc,STI US,2019/4/18,1.33,1.304
+Regions Financial Corp,RF US,2019/4/18,0.37,0.369
+BB&T Corp,BBT US,2019/4/18,1.05,1.03
+Crown Castle International Cor,CCI US,2019/4/17,1.36,1.374
+United Rentals Inc,URI US,2019/4/17,3.31,3.027
+Globe Life Inc,GL US,2019/4/17,1.64,1.586
+SL Green Realty Corp,SLG US,2019/4/17,1.68,1.689
+Kinder Morgan Inc/DE,KMI US,2019/4/17,0.25,0.243
+E*TRADE Financial Corp,ETFC US,2019/4/17,1.09,0.929
+Las Vegas Sands Corp,LVS US,2019/4/17,0.91,0.866
+Kansas City Southern,KSU US,2019/4/17,1.54,1.436
+Abbott Laboratories,ABT US,2019/4/17,0.63,0.613
+Pentair PLC,PNR US,2019/4/17,0.43,0.43
+Morgan Stanley,MS US,2019/4/17,1.33,1.166
+US Bancorp,USB US,2019/4/17,1,1.001
+Textron Inc,TXT US,2019/4/17,0.76,0.683
+Bank of New York Mellon Corp/T,BK US,2019/4/17,0.94,0.958
+PepsiCo Inc,PEP US,2019/4/17,0.97,0.914
+United Airlines Holdings Inc,UAL US,2019/4/16,1.15,0.952
+International Business Machine,IBM US,2019/4/16,2.25,2.217
+CSX Corp,CSX US,2019/4/16,1.02,0.908
+Netflix Inc,NFLX US,2019/4/16,0.76,0.58
+Progressive Corp/The,PGR US,2019/4/16,1.83,1.359
+Prologis Inc,PLD US,2019/4/16,0.73,0.718
+Omnicom Group Inc,OMC US,2019/4/16,1.17,1.082
+Bank of America Corp,BAC US,2019/4/16,0.71,0.656
+Johnson & Johnson,JNJ US,2019/4/16,2.1,2.035
+Comerica Inc,CMA US,2019/4/16,2.08,1.931
+BlackRock Inc,BLK US,2019/4/16,6.61,6.13
+UnitedHealth Group Inc,UNH US,2019/4/16,3.73,3.599
+JB Hunt Transport Services Inc,JBHT US,2019/4/15,1.09,1.248
+Charles Schwab Corp/The,SCHW US,2019/4/15,0.69,0.657
+Citigroup Inc,C US,2019/4/15,1.87,1.798
+Goldman Sachs Group Inc/The,GS US,2019/4/15,5.71,4.968
+M&T Bank Corp,MTB US,2019/4/15,3.35,3.301
+Wells Fargo & Co,WFC US,2019/4/12,1.01,1.092
+First Republic Bank/CA,FRC US,2019/4/12,1.26,1.226
+PNC Financial Services Group I,PNC US,2019/4/12,2.69,2.608
+JPMorgan Chase & Co,JPM US,2019/4/12,2.59,2.353
+Fastenal Co,FAST US,2019/4/11,0.34,0.339
+Delta Air Lines Inc,DAL US,2019/4/10,0.96,0.898
+Lennar Corp,LEN US,2019/3/27,0.74,0.754
+Carnival Corp,CCL US,2019/3/26,0.49,0.438
+McCormick & Co Inc/MD,MKC US,2019/3/26,1.12,1.04
+IHS Markit Ltd,INFO US,2019/3/26,0.6,0.566
+Broadcom Inc,AVGO US,2019/3/14,5.55,5.231
+Adobe Inc,ADBE US,2019/3/14,1.71,1.616
+Cooper Cos Inc/The,COO US,2019/3/5,2.88,2.507
+HP Inc,HPQ US,2019/2/27,0.52,0.517
+Keysight Technologies Inc,KEYS US,2019/2/21,0.93,0.804
+Hewlett Packard Enterprise Co,HPE US,2019/2/21,0.42,0.348
+Hormel Foods Corp,HRL US,2019/2/21,0.44,0.443
+Agilent Technologies Inc,A US,2019/2/20,0.76,0.731
+Synopsys Inc,SNPS US,2019/2/20,1.08,0.966
+Analog Devices Inc,ADI US,2019/2/20,1.33,1.282
+Deere & Co,DE US,2019/2/15,1.54,1.751
+Applied Materials Inc,AMAT US,2019/2/14,0.81,0.788
+Tyson Foods Inc,TSN US,2019/2/7,1.58,1.56
+Jacobs Engineering Group Inc,JEC US,2019/2/6,1.14,1.038
+Atmos Energy Corp,ATO US,2019/2/5,1.38,1.327
+Skyworks Solutions Inc,SWKS US,2019/2/5,1.83,1.821
+Walt Disney Co/The,DIS US,2019/2/5,1.84,1.542
+TransDigm Group Inc,TDG US,2019/2/5,3.85,3.431
+Viacom Inc,VIAB US,2019/2/5,1.12,1.024
+Emerson Electric Co,EMR US,2019/2/5,0.76,0.659
+Becton Dickinson and Co,BDX US,2019/2/5,2.7,2.605
+Johnson Controls International,JCI US,2019/2/1,0.26,0.24
+AmerisourceBergen Corp,ABC US,2019/1/31,1.6,1.521
+Westrock Co,WRK US,2019/1/31,0.83,0.805
+Visa Inc,V US,2019/1/30,1.3,1.253
+QUALCOMM Inc,QCOM US,2019/1/30,1.2,1.089
+Hologic Inc,HOLX US,2019/1/30,0.58,0.571
+Franklin Resources Inc,BEN US,2019/1/30,0.54,0.659
+Helmerich & Payne Inc,HP US,2019/1/29,-0.1,0.294
+Apple Inc,AAPL US,2019/1/29,4.18,4.167
+Rockwell Automation Inc,ROK US,2019/1/29,2.21,2.006
+DR Horton Inc,DHI US,2019/1/25,0.76,0.781
+Air Products & Chemicals Inc,APD US,2019/1/25,1.86,1.869
+Starbucks Corp,SBUX US,2019/1/24,0.75,0.649
+Raymond James Financial Inc,RJF US,2019/1/23,1.79,1.719
+Varian Medical Systems Inc,VAR US,2019/1/23,1.06,1.084
+F5 Networks Inc,FFIV US,2019/1/23,2.7,2.535
+TE Connectivity Ltd,TEL US,2019/1/23,1.29,1.279
+Walgreens Boots Alliance Inc,WBA US,2018/12/20,1.46,1.431
+Accenture PLC,ACN US,2018/12/20,1.96,1.855
+Micron Technology Inc,MU US,2018/12/18,2.97,2.953
+Costco Wholesale Corp,COST US,2018/12/13,1.61,1.623
+AutoZone Inc,AZO US,2018/12/4,13.47,12.247
+Copart Inc,CPRT US,2018/11/20,0.47,0.464
+Campbell Soup Co,CPB US,2018/11/20,0.79,0.705
+Intuit Inc,INTU US,2018/11/19,0.15,0.113
+Cisco Systems Inc,CSCO US,2018/11/14,0.75,0.717
+Cardinal Health Inc,CAH US,2018/11/8,1.29,1.079
+News Corp,NWSA US,2018/11/7,0.17,0.046
+Coty Inc,COTY US,2018/11/7,0.11,0.075
+Jack Henry & Associates Inc,JKHY US,2018/11/6,1.1,0.933
+Broadridge Financial Solutions,BR US,2018/11/6,0.79,0.676
+Sysco Corp,SYY US,2018/11/5,0.91,0.917
+Seagate Technology PLC,STX US,2018/11/2,1.7,1.543
+Parker-Hannifin Corp,PH US,2018/11/1,2.84,2.53
+Automatic Data Processing Inc,ADP US,2018/10/31,1.2,1.111
+Estee Lauder Cos Inc/The,EL US,2018/10/31,1.41,1.224
+Clorox Co/The,CLX US,2018/10/31,1.62,1.581
+Maxim Integrated Products Inc,MXIM US,2018/10/30,0.75,0.751
+Tapestry Inc,TPR US,2018/10/30,0.48,0.45
+KLA Corp,KLAC US,2018/10/29,2.46,2.212
+Western Digital Corp,WDC US,2018/10/25,3.04,3.053
+ResMed Inc,RMD US,2018/10/25,0.81,0.79
+Microsoft Corp,MSFT US,2018/10/24,1.14,0.962
+Procter & Gamble Co/The,PG US,2018/10/19,1.12,1.081
+Lam Research Corp,LRCX US,2018/10/16,3.36,3.216
+L3Harris Technologies Inc,LHX US,2018/10/15,1.78,2.039
+Paychex Inc,PAYX US,2018/10/2,0.67,0.66
+Lamb Weston Holdings Inc,LW US,2018/10/2,0.73,0.681
+Conagra Brands Inc,CAG US,2018/9/27,0.47,0.488
+NIKE Inc,NKE US,2018/9/25,0.67,0.627
+Cintas Corp,CTAS US,2018/9/25,1.93,1.795
+Darden Restaurants Inc,DRI US,2018/9/20,1.34,1.235
+General Mills Inc,GIS US,2018/9/18,0.71,0.638
+FedEx Corp,FDX US,2018/9/17,3.46,3.803
+Oracle Corp,ORCL US,2018/9/17,0.71,0.684
+Brown-Forman Corp,BF/B US,2018/8/29,0.41,0.394
+H&R Block Inc,HRB US,2018/8/28,-0.72,-0.782
+JM Smucker Co/The,SJM US,2018/8/21,1.78,1.757
+Medtronic PLC,MDT US,2018/8/21,1.17,1.112
+NetApp Inc,NTAP US,2018/8/15,1.04,0.801
+Microchip Technology Inc,MCHP US,2018/8/9,1.61,1.487
+Capri Holdings Ltd,CPRI US,2018/8/8,1.32,0.945
+DXC Technology Co,DXC US,2018/8/7,1.93,1.728
+Take-Two Interactive Software,TTWO US,2018/8/2,0.12,0.039
+NortonLifeLock Inc,NLOK US,2018/8/2,0.34,0.329
+Qorvo Inc,QRVO US,2018/8/1,0.96,0.763
+Ralph Lauren Corp,RL US,2018/7/31,1.54,1.364
+Electronic Arts Inc,EA US,2018/7/26,0.15,0.064
+ABIOMED Inc,ABMD US,2018/7/26,0.78,0.878
+McKesson Corp,MCK US,2018/7/26,2.9,2.861
+Xilinx Inc,XLNX US,2018/7/25,0.74,0.732
+VF Corp,VFC US,2018/7/20,0.43,0.334
+Constellation Brands Inc,STZ US,2018/6/29,2.2,2.432
+CarMax Inc,KMX US,2018/6/22,1.33,1.238
+Kroger Co/The,KR US,2018/6/21,0.73,0.633
+Ulta Beauty Inc,ULTA US,2018/5/31,2.7,2.48
+Dollar Tree Inc,DLTR US,2018/5/31,1.19,1.242
+Dollar General Corp,DG US,2018/5/31,1.36,1.402
+PVH Corp,PVH US,2018/5/30,2.36,2.249
+salesforce.com Inc,CRM US,2018/5/29,0.24,0.454
+Gap Inc/The,GPS US,2018/5/24,0.42,0.457
+Autodesk Inc,ADSK US,2018/5/24,-0.31,0.032
+Ross Stores Inc,ROST US,2018/5/24,1.11,1.07
+Best Buy Co Inc,BBY US,2018/5/24,0.82,0.745
+L Brands Inc,LB US,2018/5/23,0.17,0.153
+Tiffany & Co,TIF US,2018/5/23,1.14,0.835
+Target Corp,TGT US,2018/5/23,1.32,1.386
+Lowe's Cos Inc,LOW US,2018/5/23,1.19,1.216
+TJX Cos Inc/The,TJX US,2018/5/22,0.56,0.511
+Kohl's Corp,KSS US,2018/5/22,0.64,0.499
+Nordstrom Inc,JWN US,2018/5/17,0.51,0.434
+Walmart Inc,WMT US,2018/5/17,1.14,1.12
+Macy's Inc,M US,2018/5/16,0.48,0.366
+Home Depot Inc/The,HD US,2018/5/15,2.08,2.051
+NVIDIA Corp,NVDA US,2018/5/10,2.05,1.656
